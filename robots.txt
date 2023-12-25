@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://java138.mal-lang.org/sitemap.xml
